@@ -1,0 +1,4 @@
+faketerminal
+============
+
+Just like that
